@@ -4,6 +4,24 @@ body {
 
 h1 {
     font-family: 'proxima-soft';
-    
     font-weight: 800;
+    
 }
+
+h2 {
+    font-family: 'proxima-soft';
+    font-weight: 600;
+}
+
+h3 {
+    font-family: 'proxima-soft';
+    font-weight: 600;
+}
+
+.article {
+    h2 {color: #3471b8};
+    p { font-family: 'apparat';
+        font-size: medium;
+    }
+}
+   
